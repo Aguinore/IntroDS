@@ -1,4 +1,4 @@
-DS process:
+# DS process:
 1. Data exploration and preparation (cleaning)
 2. Data representation and transformation
 3. Computing with data (using different languages and paradigms)
